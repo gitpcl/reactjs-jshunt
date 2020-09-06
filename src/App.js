@@ -1,26 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react"; // removed , { Component } because it was not being used 
+import Routes from "./routes";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+import './styles.css'
+
+import Header from './components/Header';
+// import Main from "./pages/main"; removed because <Main /> was replaced by <Routes />
+
+const App = () => (
+  <div className="App">
+      <Header />
+      <Routes />
     </div>
-  );
-}
+);
 
 export default App;
