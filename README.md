@@ -1,3 +1,17 @@
+<h1 align="center">
+    <img src=".github/readme-logo.svg" alt="Logo ReactJS" width="50%" />
+</h1>
+
+<h5 align="center">
+  <b>A simple ReactJS app.</b> 👨‍🏫
+</h5>
+
+<img  src=".github/demo-jshunt.gif" alt="Gif JSHunt" width="100%" />
+
+## :computer: About the project
+
+This project was developed during Rocketseat's ReactJS module.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +80,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## :memo: License
+
+This project is under an MIT license. Please check the [LICENSE](LICENSE.md) for more information.
+
+---
+
+Made 💜 by Pedro Lopes 
