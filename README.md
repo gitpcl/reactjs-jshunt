@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src=".github/readme-logo.svg" alt="Logo ReactJS" width="50%" />
-</h1>
-
 <h5 align="center">
   <b>A simple ReactJS app.</b> 👨‍🏫
 </h5>
